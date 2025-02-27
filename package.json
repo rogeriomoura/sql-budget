@@ -1,0 +1,9 @@
+{
+  "name": "sql-budget",
+  "packageManager": "yarn@4.4.1",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "sqlite3": "^5.1.7"
+  }
+}
